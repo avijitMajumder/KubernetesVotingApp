@@ -28,7 +28,7 @@ metadata:
   labels:
     app: vote
   name: vote
-  namespace: devopsinaction
+  namespace: vote
 spec:
   type: NodePort
   ports:
